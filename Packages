@@ -3,14 +3,14 @@ Version: 6.7
 Section: System
 Maintainer: NTNghia
 Depends: com.conradkramer.open, sqlite3, kr.iolate.simulatetouch, com.autopear.installipa, zip, jp.ashikase.mousesupport, sudo, ch.ringwald.hidsupport, com.rbt.useragentchanger, unzip, ws.hbang.repower, veency, rsync, com.kdk67.locationfakerios89, com.kdk67.xcon, jetslammed, socat, com.kdk67.hookkeyboard67, com.kdk67.icontool, com.cydiageek.coysim
-Conflicts: vn.gsm.locationfaker8, com.yourepo.dviet92.xcon, vn.gsm.xcon, com.n00neimp0rtant.xcon, com.yourepo.cml.locationfakerios89, com.yourepo.cml.xcon, com.yourepo.cml.hookkeyboard, com.yourepo.cml.hookkeyboardver2
+Conflicts: 
 Architecture: iphoneos-arm
 Filename: ./debs/com.kdk67.autolead67_6.7_iphoneos-arm.deb
 Size: 242372
 MD5sum: 2006992c489a1ac59a170e852cad249d
 Description: Auto Lead iOS 8-10 https://facebook.com/phatdatpq.......
 Name: AutoLead67
-Author: Nice <leezayct@gmail.com>
+Author: Phạm Văn Mạnh <leezayct@gmail.com>
 
 Package: com.kdk67.hookkeyboard67
 Version: 6.7
@@ -23,7 +23,7 @@ Size: 331830
 MD5sum: ed2b009d9aa6d32ead7383295febad60
 Description: tweak for autoLead IOS 8-10 https://facebook.com/phatdatpq
 Name: hookkeyboard67
-Author: Nice <leezayct@gmail.com>
+Author: Phạm Văn Mạnh <leezayct@gmail.com>
 
 Package: com.kdk67.icontool
 Version: 1.9-5k
