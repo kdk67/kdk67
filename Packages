@@ -9,7 +9,7 @@ Filename: ./debs/com.kdk67.autolead67_6.7_iphoneos-arm.deb
 Size: 242372
 MD5sum: 2006992c489a1ac59a170e852cad249d
 Description: Auto Lead iOS 8-10 https://facebook.com/phatdatpq.......
-Name: AutoLead67
+Name: AutoLead
 Author: Phạm Văn Mạnh <leezayct@gmail.com>
 
 Package: com.kdk67.hookkeyboard67
@@ -22,7 +22,7 @@ Filename: ./debs/com.kdk67.hookkeyboard67_6.7_iphoneos-arm.deb
 Size: 331830
 MD5sum: ed2b009d9aa6d32ead7383295febad60
 Description: tweak for autoLead IOS 8-10 https://facebook.com/phatdatpq
-Name: hookkeyboard67
+Name: hookkeyboard
 Author: Phạm Văn Mạnh <leezayct@gmail.com>
 
 Package: com.kdk67.icontool
