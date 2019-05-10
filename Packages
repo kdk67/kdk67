@@ -4,7 +4,7 @@ Section: System
 Maintainer: Taodz
 Architecture: iphoneos-arm
 Filename: ./7.0/com.kidsauto72.autolead_7.2_iphoneos-arm.deb
-Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.cydiageek.coysim,SSLKillSwitch 10,xCon 10,hookkeyboard 10,Icon Tool 10,LocationFaker 10,wtabwdata 10,jailprotect
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.cydiageek.coysim,SSLKillSwitch10,xCon10,hookkeyboard10,IconTool10,LocationFaker10,wtabwdata10,jailprotect
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2
 Author email: kieutaous@gmail.com
 Size: 243070
@@ -13,7 +13,7 @@ Description: Autolead for IOS Model 9.2.1 - 11.4.1
 Name: autoleadX10
 Author: Kieu Tao
 
-Package: Icon Tool 10
+Package: IconTool10
 Version: 1.9-5k
 Section: Tweaks
 Maintainer: Taodz
@@ -28,7 +28,7 @@ Description: App tools menu from jiggle mode
 Name: Icon Tool 10
 Author: Kieu Tao
 
-Package: hookkeyboard 10
+Package: hookkeyboard10
 Version: 7.2
 Section: Tweaks
 Maintainer: Taodz
@@ -42,7 +42,7 @@ Name: hookkeyboard 10
 Author: Kieu Tao
 Depends: mobilesubstrate
 
-Package: LocationFaker 10
+Package: LocationFaker10
 Version: 2.0k
 Section: Tweaks
 Maintainer: Taodz
@@ -56,7 +56,7 @@ Name: LocationFaker 10
 Author: Kieu Tao
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 
-Package: xCon 10
+Package: xCon10
 Version: 42~beta1
 Section: Tweaks
 Maintainer: Taodz
@@ -83,7 +83,7 @@ Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Denn
 Name: Remover
 Author: Kieu Tao
 
-Package: wtabwdata 10
+Package: wtabwdata10
 Version: 0.0.2-4
 Section: Tweaks
 Maintainer: Taodz
@@ -109,7 +109,7 @@ Description: bypass anti-jailbreak protection
 Name: jailprotect
 Author: Kieu Tao
 
-Package: SSLKillSwitch 10
+Package: SSLKillSwitch10
 Version: 0.11-1
 Section: Tweaks
 Maintainer: Taodz
