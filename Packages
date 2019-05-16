@@ -121,3 +121,16 @@ MD5sum: 436a47b8b1277db1360e5fbd0a7212cb
 Description: bypass anti-jailbreak protection
 Name: SSLKillSwitch 10
 Author: Kieu Tao
+
+Package: com.kidsauto72.remover103
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Taodz
+Architecture: iphoneos-arm
+Filename: ./7.0/com.kidsauto72.remover103_1.0.3_iphoneos-arm.deb
+Author email: kieutaous@gmail.com
+Size: 198240
+MD5sum: 7768b3dd2bf6ab4c3fb772592723f557
+Description: bypass anti-jailbreak protection
+Name: Xoa Jaibreak yalu102
+Author: Kieu Tao
