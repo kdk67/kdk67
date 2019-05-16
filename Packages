@@ -70,19 +70,6 @@ Name: xCon 10
 Author: Kieu Tao
 Depends: mobilesubstrate, firmware (<= 10.2.1)
 
-Package: Remover
-Version: 1.0.3
-Section: Utilities
-Maintainer: Taodz
-Architecture: iphoneos-arm
-Filename: ./7.0/com.kidsauto72.remover103_1.0.3_iphoneos-arm.deb
-Author email: kieutaous@gmail.com
-Size: 141906
-MD5sum: ac7ea3e8b14cd3f963cb5270fb6d2b19
-Description: A Cydia Eraser replacement (iOS 10-10.2) - The icon is made by Dennis Bednarz.
-Name: Remover
-Author: Kieu Tao
-
 Package: com.kidsauto72.wtabwdata73
 Version: 0.0.2-4
 Section: Tweaks
