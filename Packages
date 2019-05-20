@@ -109,7 +109,7 @@ Description: bypass anti-jailbreak protection
 Name: SSLKillSwitch 10
 Author: Kieu Tao
 
-Package: com.hiroshit.nolowpoweralert
+Package: com.kidsauto72.nolowpoweralert
 Version: 0.1-1
 Section: Tweaks
 Maintainer: Taodz
