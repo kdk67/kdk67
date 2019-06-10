@@ -141,6 +141,7 @@ Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
 Filename: ./7.0/tw.garynil.swipehome_2.3_iphoneos-arm.deb
+Depends: net.angelxwind.karenlocalizer,net.angelxwind.karenprefs
 Author email: kieutaous@gmail.com
 Size: 56510
 MD5sum: 3c0cce9bd42cc8813989f97dc8ff3e0d
