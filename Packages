@@ -148,3 +148,16 @@ MD5sum: 3c0cce9bd42cc8813989f97dc8ff3e0d
 Name: Wipe close app
 Description: force all app
 Author: Kieu Tao
+
+Package: com.kidsauto72.kidsHooker
+Version: 2.3
+Section: Tweaks
+Maintainer: Taodz
+Architecture: iphoneos-arm
+Filename: ./7.0/kidsHooker.deb
+Author email: kieutaous@gmail.com
+Size: 99192
+MD5sum: a5169f37303281c24458c971030f4f74
+Name: Hooker
+Description: Change udid
+Author: Kieu Tao
