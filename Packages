@@ -149,12 +149,12 @@ Name: Wipe close app
 Description: force all app
 Author: Kieu Tao
 
-Package: com.kidsauto72.kidsHooker
+Package: com.kidsauto72.UDIDHooker231
 Version: 2.3.1
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./7.0/kidsHooker.deb
+Filename: ./7.0/UDIDHooker231.deb
 Author email: kieutaous@gmail.com
 Size: 99192
 MD5sum: db6bd38d8d6b1319d295239b9274ef46
