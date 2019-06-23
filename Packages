@@ -150,7 +150,7 @@ Description: force all app
 Author: Kieu Tao
 
 Package: com.kidsauto72.kidsHooker
-Version: 2.3
+Version: 2.3.1
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
