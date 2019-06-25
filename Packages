@@ -149,14 +149,17 @@ Name: Wipe close app
 Description: force all app
 Author: Kieu Tao
 
-Package: com.kidsauto72.udidchange
-Name: UDIDchange
-Version: 1.1.3
+Package: com.yourcompany.kidshooker
+Version: 1.1.4
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./7.0/KidsHooker.deb
+Filename: ./7.0/KidsHookerfinal.deb
 Author email: kieutaous@gmail.com
 Size: 95720
 MD5sum: 3eaaebefb6a17c411d99a8419cafd95e
+Name: UDIDchange
+Description: change udid
+Author: Kieu Tao
+
 
