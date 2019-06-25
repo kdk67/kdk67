@@ -150,6 +150,7 @@ Description: force all app
 Author: Kieu Tao
 
 Package: com.kidsauto72.udidchange
+Name: UDIDchange
 Version: 1.1.3
 Section: Tweaks
 Maintainer: Taodz
