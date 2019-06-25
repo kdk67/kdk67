@@ -150,18 +150,12 @@ Description: force all app
 Author: Kieu Tao
 
 Package: com.kidsauto72.udidchange
-Version: 1.1.2
+Version: 1.1.3
 Section: Tweaks
 Maintainer: Taodz
 Architecture: iphoneos-arm
-Filename: ./7.0/KidsHooker_final.deb
+Filename: ./7.0/KidsHooker.deb
 Author email: kieutaous@gmail.com
-Size: 99720
+Size: 95720
 MD5sum: 3eaaebefb6a17c411d99a8419cafd95e
-<<<<<<< HEAD
-Name: UDIDchangerr
-=======
-Name: UDIDchange
->>>>>>> parent of 3c98440... update
-Description: Change udid final
-Author: Kieu Tao
+

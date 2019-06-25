@@ -1,6 +1,6 @@
 ﻿Origin: Kieu tao 73
 
-Label: PVM
+Label: Kieu tao 73
 
 Suite: Kieu tao 73
 
@@ -16,12 +16,6 @@ Description: 67 hỗ trợ anh em cộng đồng lead offer ios
 
 MD5sum:
 
-<<<<<<< HEAD
-79860d8a532d93afc5ee86e5d6f9bb82 5213 Packages
+3a2d943acb0f1d4f9a41289f208d3cd4 5145 Packages
 
-591a96673f2a230fb9fe08fc848e7294 1666 Packages.bz2
-=======
-39a7b0c1773bcc19fad1b715635674cb 5217 Packages
-
-eed0ca093b1aac6cf0d6c770aa22235c 1663 Packages.bz2
->>>>>>> parent of 3c98440... update
+f999ad1412629df4221f005ee3768c32 1642 Packages.bz2
